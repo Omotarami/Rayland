@@ -394,6 +394,8 @@ header.main-header .header-sticky.active{
 .navbar-brand{
 	padding: 0;
 	margin: 0;
+    width:100px;
+  
 }
 
 .navbar-brand img{
